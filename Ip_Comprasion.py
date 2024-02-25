@@ -1,8 +1,8 @@
 
 import requests
 
-API_KEY = 'ca4634f5ccfe89afac99a7553979552bbdec0617d0a05f33f2efd89b54c757771532a86d1989242f'
-IP_LIST = ['52.189.252.193','149.40.52.227','104.28.156.213']
+API_KEY = ''
+IP_LIST = ['']
 
 
 def check_ip_reputation(ip):
