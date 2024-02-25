@@ -1,9 +1,11 @@
+##author vamshi.komakula
+
 import requests
 
-API_KEY_ABUSEIPDB = 'ca4634f5ccfe89afac99a7553979552bbdec0617d0a05f33f2efd89b54c757771532a86d1989242f'
+API_KEY_ABUSEIPDB = 'API'
 API_KEY_IPSTACK = 'YOUR_IPSTACK_API_KEY'
 
-IP_LIST = ['52.189.252.193', '149.40.52.227', '104.28.156.213']
+IP_LIST = ['1.1.1.1', '2.2.2.2', '3.3.3.3']
 
 
 def ip_check(ip):
